@@ -1,0 +1,224 @@
+<doctype html>
+    <html>
+<head>
+  <title>Gujarat</title>
+  <link rel="stylesheet" href="style.css">
+<head>
+    <body>
+      <h1>GUJARAT</h1>>
+    <h1>Historic Places to visit that celebrate the state's Majestic Past</h1>
+    <p>
+        Gujarat is a state that flaunts its vibrant heritage each passing second.The state is bestowed with inspiring culture,
+         and overwhelming history, coupled with architecture that will move you from within. The historical places in Gujarat 
+        invites pilgrims and historians from around the world. While some places like Laxmi Vilas Palace define sheer grandiose,
+         landmarks like Dwarkadhish Temple and Dholavira narrate tales of a legendary past.
+    </p>
+    <p>If you are planning a trip to this state in Western India, November to February is the best time to visit Gujarat.
+       The weather is pleasant and the warm sun makes the perfect companion when you are outdoors heading from one
+        sightseeing spot to another in the nippy air.</p>
+
+    <p><b>So, Let's Dive into the majestic land of GUJARAT!</b></p>
+
+    <a href="#L1">1. Statue Of Unity</a><br>
+    <a href="#L2">2. Laxmi Vilas Palace</a><br>
+    <a href="#L3">3. Rani Ki Vav</a><br>
+    <a href="#L4">4. Prag Mahal </a><br>
+    <a href="#L5">5. Somnath Temple</a><br>
+    <a href="#L6">6. Dwarkadhish Temple</a><br>
+    <a href="#L7">7. Aina Mahal </a><br>
+    
+
+    <h1 id="L1">1. Statue OF Unity </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Statue of unity.jpg" alt="Statue of Unity">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>The statue has been built as an ode to the Iron Man of India, Sardar Vallabhbhai Patel, the first home
+       minister of independent India. He was responsible for uniting all 562 princely states of the country to build the Republic
+       of India.</p>
+
+       <li>About:</li>
+<p>  
+  October 31st, 2018, marked the inauguration of the world’s tallest statue – the Statue of Unity, against the backdrop of the
+   dramatic Satpura and Vindhyachal hills in Kevadia, Gujarat. The 182-metre (600 feet aprox.) statue is dedicated to Sardar
+    Vallabhbhai Patel, the architect of independent India. The colossal monument towers over River Narmada, a tribute to India
+     ‘from the people of Gujarat’ to the leader who placed people’s welfare first. 
+</p>
+     <li>Timings:</li>
+<p>
+  Opens at 8:00 AM and closes at 6:00 PM from Tuesday to Sunday.
+</p>
+     <li>Location:</li>
+<p>
+  Sardar Sarovar Dam, Statue of Unity Rd, Kevadia, Gujarat 393155
+</p>
+    <li>Entry Fee:</li>
+<p>INR 120(Adults); INR 60(Kids)</p>
+</ul>
+
+<h1 id="L2">2. Laxmi Vilas Palace </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\LVP.jpg" alt="Laxmi Vilas Palace">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>The statue has been built as an ode to the Iron Man of India, Sardar Vallabhbhai Patel, the first home
+       minister of independent India. He was responsible for uniting all 562 princely states of the country to build the Republic
+       of India.</p>
+
+       <li>About:</li>
+<p>  
+  Laxmi Vilas Palace is one of the most majestic structures in India and was the private residence of
+   Maharaja Sayajirao Gaekwad III. It is known to be the largest private dwelling of the size equivalent to four times
+    Buckingham Palace. It was constructed in 1890 and is still home to the royal family of Vadodara, the Gaekwads.
+     The palace now houses a museum for the tourists.
+</p>
+     <li>Timings:</li>
+<p>
+  9:30 AM - 5:00 PM (Closed on Mondays and public holidays)
+</p>
+     <li>Location:</li>
+<p> J.N.Marg, Vadodara, Gujarat 390001  </p>
+     <li>Entry Fee:</li>
+<p>INR 240 for Indian Nationals<br>INR 350 for Foreign Nationals</p>
+</ul>
+
+<h1 id="L3">3. Rani Ki Vav </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\RKV.jpg" alt="Rani Ki Vav">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>The stepwell was built in 1063 by Rani Udayamati of the Chaulukya Dynasty to commemorate her husband, Bhimdev I.
+         A 1304 composition of Jain monk, Merutunga, mentions that Udayamati, the daughter of Naravaraha Khangara, built this
+          stepwell at Patan. The same composition also mentions that the stepwell was commissioned in 1063 and was completed
+           after 20 years.The stepwell has been listed as one of UNESCO's World Heritage Sites since 2014.</p>
+
+       <li>About:</li>
+<p>  
+  Rani Ka Vav or 'Queen's Stepwell' is a unique stepwell located in Patan. It is a distinctive form of water resource and
+   storage system and represents unique craftsmanship.The 900-year-old structure listed as a UNESCO World Heritage Site is
+    displayed prominently in the new ₹ 100 currency note issued by the Reserve Bank of India.
+</p>
+     <li>Timings:</li>
+<p>
+  8:00 AM - 6:00 PM
+</p>
+     <li>Location:</li>
+<p> Near Mohan Nagar Society,Patan, Gujarat 384265  </p>
+      <li>Entry Fee:</li>
+<p>INR 56 for Indian Nationals<br>INR 550 for Foreign Nationals</p>
+</ul>
+
+<h1 id="L4">4. Prag Mahal </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\prag.jpg" alt="Prag Mahal">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>Named after Rao Pragmalji II, who commissioned the construction of Prag Mahal, the palace’s first bricks were laid
+         in 1865. It was designed by Colonel Henry Saint Wilkins in the Italian Gothic style. His team constituted of a number
+          of Italian artisans and their wages were paid in gold coins. It ultimately took 3.1 million rupees to get the work
+           done and the palace stood in its fully glory in 1879. By then the regency has switched Khengarji III
+            (Pragmalji II's son) following Pragmalji II's death in 1875.</p>
+
+       <li>About:</li>
+<p>  
+  Prag Mahal is also home to the second tallest clock tower that offers panoramic views from the top. There is also a museum
+   inside the palace, exhibiting the royal family and archives holding historical significance. The beauty of this palace can
+    be witnessed in numerous Bollywood films including Hum Dil De Chuke Sanam, Lagaan, and many more! 
+</p>
+     <li>Timings:</li>
+<p>
+  9:00 AM - 12:00 PM, 3:00 PM - 6:00 PM
+</p>
+     <li>Location:</li>
+<p> Darbar Gadh Rd, Old Dhatia Falia, Bhuj, Gujarat 370001  </p>
+     <li>Entry Fee:</li>
+<p>INR 20(Adults); INR 10(Kids)</p>
+</ul>
+
+<h1 id="L5">5. Somnath Temple </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\Somnath.jpg" alt="Somnath Temple">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>It’s said that Somraj (the moon god) first built a temple in Somnath, made of gold; this was rebuilt by Ravana in
+         silver, by Krishna in wood and by Bhimdev in stone. The current serene, symmetrical structure was built to traditional
+          designs on the original coastal site: it’s painted a creamy colour and boasts a little fine sculpture. The large,
+           black Shiva lingam at its heart is one of the 12 most sacred Shiva shrines, known as jyotirlinga.</p>
+
+       <li>About:</li>
+<p>  
+  The intricately carved honey-coloured Somnath temple on the western edge of the state is believed to be the place
+  where the first of the twelve holy jyotirlingas emerged in India – a spot where Shiva appeared as a fiery column
+   of light. The temples lies at the meeting of Kapila, Hiran and Sarasvati rivers and the waves of the Arabian Sea
+    ebb and flow touching the shore on which it is constructed. The ancient temple’s timeline can be traced from 649 BC
+     but is believed to be older than that. The present form was reconstructed in 1951.
+</p>
+     <li>Timings:</li>
+<p>
+  Darshan timing- 6:00 AM - 9:30 PM,
+  Arati timing- 7:00 AM, 12:00 PM, 7:00 PM,
+  Light and sound show- 7:45 PM
+</p>
+     <li>Location:</li>
+<p> Somnath Mandir Rd, Somnath, Gujarat 362268  </p>
+     <li>Entry Fee:</li>
+<p>None<br> INR 25(Adults); INR 15(Kids) for Light and Sound Show</p>
+</ul>
+
+<h1 id="L6">6. Dwarka Temple </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\Dwarka.jpg" alt="Dwarkadhish Temple">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>Dwarka on the western tip of the Kathiawar Peninsula is clubbed with the holiest sites in India – the Char Dhams
+         that include Badrinath, Puri and Rameshwaram. It is believed that Lord Krishna arrived here from Braj in Uttar Pradesh
+          to build the city. The temple was established by his grandson. It is at the cusp of the Gomti River and the Arabian
+           Sea, providing a scenic backdrop to the spiritual site. It is said that Dwarka was submerged under the sea six times
+            and what we see now is its seventh avatar.</p>
+
+       <li>About:</li>
+<p>  
+  An important Hindu Pilgrimage spot dedicated to Lord Krishna, Dwarkadhish Temple is also known as Jagat Mandir. This is one
+   of the four Char Dhams, and thus it had to be featured in this list of 10 historical places of Gujarat. Supported by 72 
+   pillars, this five-storeyed archeological marvel is said to be as old as 2200 years, as per the findings.
+The temple is located in Gomti creek, and is always flocked by crowd of pilgrims, especially during the grand celebration
+ of Janmashtami. 
+</p>
+     <li>Timings:</li>
+<p>
+  6:00 AM - 1:00 PM , 5:00 PM - 9:30 PM
+</p>
+     <li>Location:</li>
+<p> Somnath Mandir Rd, Somnath, Gujarat 362268  </p>
+     <li>Entry Fee:</li>
+<p>None</p>
+</ul>
+
+<h1 id="L7">7. Aina Mahal </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\Aina.jpg" alt="Aina Mahal">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>Maharao Lakhpatji commissioned the project in 1750 to architect and designer Ram Singh Malam, who lived in Europe
+         for 18 years and had mastered several European architecture skills. An interesting legend surrounds Maharao Lakhpatji.
+          It is said that he used his beds only for a year and then auctioned them off. The museum is a royal showcase of Kutch
+           jewellery, weaponry and art.</p>
+
+       <li>About:</li>
+<p>  
+  This Bhuj based beautiful palace, built in 1752, lost its top storey in an earthquake, but the lower floor is open for
+   travellers, with a fantastic 15.2 m scroll showing a Kutch state procession. The palace is one of the three that lie in
+    the walled complex of the old part of town. The 18th-century elaborately mirrored interior is a demonstration of the
+     fascination with all things European.
+     <li>Timings:</li>
+<p>
+  9:00 AM - 12:00 PM , 3:00 PM - 6:00 PM(Except Thursday)
+</p>
+     <li>Location:</li>
+<p> Maharav Of Kutch, Darbargadh Chowk, Bhuj, Gujarat 370001 </p>
+     <li>Entry Fee:</li>
+<p>INR 20(Adults); None(Kids)</p>
+</ul>
+
+    </body>
+    </html>

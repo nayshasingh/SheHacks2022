@@ -1,0 +1,198 @@
+<doctype html>
+    <html>
+<head>
+  <title>Haryana</title>
+  <link rel="stylesheet" href="style.css">
+<head>
+    <body>
+      <h1>HARYANA</h1>>
+    <p>
+        Whether you are a believer in God or non-believer, ‘The Abode of God’, as Haryana is famously referred to, might make
+     you think if there is a god, he might probably be here. The land is so ancient, which can be gauged by the fact that
+     this was the place where Veda Vyasa, the saint, wrote the famous epic Mahabharata.
+    </p>
+    <p>October to March is the best time to visit Haryana owing to the favourable weather conditions during this time. It
+         starts getting colder and pleasant around this time making it a perfect time for venturing out for sightseeing.</p>
+
+    <p><b>Come enlighten yourself by exploring the ancient land of HARYANA!</b></p>
+
+    <a href="#L1">1.Buddha Stupa</a><br>
+    <a href="#L2">2. Jal Mahal</a><br>
+    <a href="#L3">3. Shobha Sarovar</a><br>
+    <a href="#L4">4. Chamunda Devi Temple </a><br>
+    <a href="#L5">5. Tomb of Ibrahim Shah Suri</a><br>
+    <a href="#L6">6. Choron ki Baoli</a><br>
+    <a href="#L7">7. Raja Nahar Singh Palace </a><br>
+    
+
+    <h1 id="L1">1. Buddha Stupa </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\stupa.jpg" alt="Buddha Stupa">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>During the reign of the Mauryan King Ashoka, the ancient city of Shrughna (modern Sugh) became an important center of
+         Buddhism. As mentioned in the travel account of the Chinese pilgrim Yuan Chwang, this place was adorned by many stupas
+         and a monastery.During the reign of the Mauryan king Ashoka, the ancient city of Shrughna(modern Sugh) became an
+          important center of Buddhism. </p>
+
+       <li>About:</li>
+<p>  
+    To construct this baked brick stupa, concentric layers were put one over the other, each time leaving some space on the
+     underlying layer, so that the whole structure should give a hemispherical look. Thus, this stupa corresponds to the
+      Shahpur and Dharmarajika stupas at Taxila. At the top of the stupa, square space about 1.5 mt. was found filled with
+       earth. This was the place for harmika which bore the chhatravali (umbrella). 
+</p>
+     <li>Timings:</li>
+<p>
+ Open 24 Hours
+</p>
+     <li>Location:</li>
+<p>
+    588R+J7J, Chaneti, Haryana 135003
+</p>
+    <li>Entry Fee:</li>
+<p>None</p>
+</ul>
+
+<h1 id="L2">2. Jal Mahal</h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\jal.jpg" alt="Jal Mahal">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>It was constructed in 1591 by Shah Kuli Khan. According to history Shah Kuli Khan caught Hemu in the Second Battle of
+           the famous Panipat. In the same feat, Akbar was pleased and handed over the fiefdom of Narnaul to Shah Kuli Khan.
+           Jal Mahal has been constructed on a huge plot of approximately 11 acres.</p>
+
+       <li>About:</li>
+<p>  
+    It is situated in the middle of the huge pond, but there is a bridge to reach the monument. Lime and stone have been used
+     in the construction of this beautiful temple in the shape of a small palace in the middle of the huge lake.The palace itself
+      was decorated in the style of other Mughal palaces and pavilions; the structure was adorned with art and carvings,
+     including inscriptions that celebrated Khan's famous victory over Hemu.
+</p>
+     <li>Timings:</li>
+<p>
+ Open 24 Hours
+</p>
+     <li>Location:</li>
+<p> Mohalla Purani Mandi, Narnaul, Haryana 123001  </p>
+     <li>Entry Fee:</li>
+<p>INR 10 for Indian Nationals<br>INR 50 for Foreign Nationals</p>
+</ul>
+
+<h1 id="L3">3. Shobha Sarovar </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\shobha.jpg" alt="Shobha Sarovar">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>Due to proximity of deserts, the availability of water was scarce in Narnaul. Therefore, this huge pond (sarovar) was
+           built by a local chief during the late Mughal period for the use of general public. The sarovar was constructed in
+     in the style of the then prevailing Hindu architecture. An inscription fixed on the eastern wall records that an enclosed chamber for ladies-bath was added to this pond in samvat
+     1986 (1929 AD).  </p>
+
+    
+     <li>Timings:</li>
+<p>
+ Open 24 Hours
+</p>
+     <li>Location:</li>
+<p> Narnaul - Behror - Alwar Rd, Mohalla Mali Tibba, Narnaul, Haryana 123001  </p>
+      <li>Entry Fee:</li>
+<p>None</p>
+</ul>
+
+<h1 id="L4">4. Chamunda Devi Temple </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\CDM.jpg" alt="Chamunda Devi Temple">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>Built by Raja Naun Karan who was a great devotee of the goddess, Chamunda Devi Mandir lies in the heart of the city.
+           The temple was decaying state and lost for several years during the Mughal rule, and was rediscovered by the people
+            who lived here.Post-independence, the people dug up the area and the temple came to light, though in a dilapidated
+             condition. Today, it is the most visited temple of the town.
+            </p>
+
+     <li>Timings:</li>
+<p>
+  10:00 AM - 8:00 PM
+</p>
+     <li>Location:</li>
+<p> Gali maa chamunda devi mandir, Naya Bazar Rd, Narnaul, Haryana 123001 </p>
+     <li>Entry Fee:</li>
+<p>None</p>
+</ul>
+
+<h1 id="L5">5. Tomb of Ibrahim Shah Suri </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\tomb.jpg" alt="Tomb of Ibrahim Shah Suri">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>The inscription over the entrance of the tomb suggests that it was constructed on the instructions of Sher Shah Suri
+           (1540-45 AD) over the grave of his grandfather, Ibrahim Khan Sur, who died at Narnaul in 1518 AD. The tomb is stands
+       on an elevated square platform. Its entrance is on the eastern side, and appears to have been built of Hindu temples
+        and has beautiful carvings.The tomb was designed and built by the Sher Shah''s personal architect,
+        Sheikh Ahmad Niyazi, in Pathan style. </p>
+
+     <li>Timings:</li>
+<p>
+ 8:00 AM- 6:00 PM(Tuesday to Sunday)
+</p>
+     <li>Location:</li>
+<p> Tehsil Camp Rd, Devi Mandir Area, Tehsil Camp, Panipat, Haryana 132103 </p>
+     <li>Entry Fee:</li>
+<p>None</p>
+</ul>
+
+<h1 id="L6">6.Choro ki Baoli </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\choro.jpg" alt="Choro ki Baoli ">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p> According to an inscription on the well, it was built by Saidu Kala, a chobdar in the service of Emperor Shah Jahan,
+       in 1658-59 AD. It is an elaborate structure of bricks and kankar blocks, has 101 steps extending in three stages,
+         separated by landings and leading to the water reservoir. The circular well is located at the end of the stairs.</p>
+
+       <li>About:</li>
+<p>  
+    The stepwell built in Maham was intended to alleviate some of the effects of the seasonal drought the town suffered through.
+     In addition, some sources state that treasures looted during the Mughal army's wars were intended to be hidden inside the
+  baoli and in the surrounding area.A total of 101 steps lead down to the lowest point of the reservoir. In addition to
+     holding water, rooms were built within and around the stepwell to house travelers and passersby.
+</p>
+     <li>Timings:</li>
+<p>
+ Open 24 Hours
+</p>
+     <li>Location:</li>
+<p> X75W+XW9, Meham, Haryana 124112  </p>
+     <li>Entry Fee:</li>
+<p>None</p>
+</ul>
+
+<h1 id="L7">7. Raja Nahar Singh Palace </h1>
+    <img src="C:\Users\user\Desktop\SheHacks\Images\raja.jpg" alt=" Raja Nahar Singh Palace">
+     <ul type="square">
+
+      <li>Brief History:</li>
+      <p>The earliest parts of Raja Nahar Singh's palace were constructed by his ancestor Rao Balram, who came to power in 1739.
+           This construction continued in parts till about 1850.Raja Nahar Singh, ruler of the small state of Ballabgarh,
+            played a key role in India's struggle for Independence.</p>
+
+       <li>About:</li>
+<p>  
+    The elaborate cupolas and minarets of this double-storeyed sandstone structure are fashioned around a vast central
+     courtyard. The palace has six tastefully decorated guest rooms, replete with royal ambiance. The fort was decorated 
+     with minars on its four corners of which only two can be seen now due to age and neglect. The palace holds a Darbar-e-aam
+     (Hall of Public Audience) and a Rang Mahal decorated with a beautiful Chhatri.
+     <li>Timings:</li>
+<p>
+  9:00 AM - 11:00 PM (Except Thursday)
+</p>
+     <li>Location:</li>
+<p> Ambedkar Chowk, Ballabhgarh, Faridabad, Haryana 121001 </p>
+     <li>Entry Fee:</li>
+<p>INR 20(Indian Adults); 10(Kids);INR 50(Foreign Nationals)</p>
+</ul>
+
+    </body>
+    </html>
