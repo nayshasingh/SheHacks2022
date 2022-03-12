@@ -8,7 +8,7 @@ img {
     border: 10px;
     border-color:black;
     height: 400px;
-    width: 500px;
+    width: 400px;
 }
 h1 {
     border: 10px;
@@ -27,12 +27,12 @@ h2 {
 }
 ul {
     font-style: italic;
-}
-li{
-    text-size=18px;
+    font-size:25px;
+    
 }
 p {
     font-family:cursive;
+    font-size:15px
 }
 table,th,td{
     border:1px solid black;
