@@ -28,6 +28,9 @@ h2 {
 ul {
     font-style: italic;
 }
+li{
+    text-size=18px;
+}
 p {
     font-family:cursive;
 }
