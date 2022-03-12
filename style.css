@@ -39,3 +39,35 @@ table,th,td{
     padding:2px;
     word-spacing: 2px;
 }
+:root {
+    --bg: hsl(0, 100%, 10%);
+    --color: black;
+    --underline-width: 8px;
+    --underline-block-width: 20px;
+    --underline-color: coral;
+    --underline-color-hover: powderblue;
+    --underline-transition: 0.5s;
+  }
+  a {
+    color: var(--color);
+    text-decoration: none;
+    background-image: linear-gradient(90deg, var(--bg), var(--bg)),
+      linear-gradient(90deg, var(--underline-color), var(--underline-color));
+    background-size: var(--underline-block-width) var(--underline-width),
+      100% var(--underline-width);
+    background-repeat: no-repeat;
+    background-position-x: calc(var(--underline-block-width) * -1), 0;
+    background-position-y: 100%;
+    transition: background-position-x var(--underline-transition);
+  }
+  
+  a:hover {
+    background-image: linear-gradient(90deg, var(--bg), var(--bg)),
+      linear-gradient(
+        90deg,
+        var(--underline-color-hover),
+        var(--underline-color-hover)
+      );
+    background-position-x: calc(100% + var(--underline-block-width)), 0;
+  }
+  
