@@ -34,7 +34,8 @@ ul {
 }
 p {
     font-family:cursive;
-    font-size:15px
+    font-size:15px;
+    
 }
 table,th,td{
     border:1px solid black;
