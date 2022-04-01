@@ -3,6 +3,10 @@
     text-align: center;
     
 }
+body{
+background-image:url('Images/india.jpg');
+}
+
 img {
     border-radius: 20%;
     border: 10px;
