@@ -16,13 +16,14 @@ h1 {
     border-color: deeppink;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:20px;
 }
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 5px;
     border-style: ridge;
     border-color: aquamarine;
-   
+   padding:20px;
     
 }
 ul {
@@ -41,6 +42,11 @@ table,th,td{
     margin-left: auto; 
     margin-right: auto;
 }
+
+th,td{
+    padding:20px;
+}
+
 :root {
     --bg: hsl(0, 100%, 10%);
     --color: black;
